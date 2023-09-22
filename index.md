@@ -17,3 +17,8 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 var myVar = "Hello, world!";
 ```
 
+- [X] Level 1
+- [X] Level 2
+- [ ] Level 3
+- [ ] Level 4
+
